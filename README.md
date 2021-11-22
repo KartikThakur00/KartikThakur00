@@ -1,4 +1,4 @@
- Hi, I’m @KartikThakur00  and currently learning c++
+ Hi, I’m @KartikThakur00  and currently learning something.
 
 <!---
 KartikThakur00/KartikThakur00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
