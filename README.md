@@ -19,12 +19,5 @@ Welcome to my GitHub profile!
 - [sociopedia-client](https://github.com/KartikThakur00/sociopedia-client) — Frontend for a social media style application.  
 - [sociopedia-server](https://github.com/KartikThakur00/sociopedia-server) — Backend API for the Sociopedia application.  
 
-## 📈 GitHub Stats
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikThakur00&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikThakur00&layout=compact&theme=tokyonight)
-
-## 📫 Connect With Me
-- GitHub: [@KartikThakur00](https://github.com/KartikThakur00)
-
 ---
 Thanks for visiting my profile ✨
