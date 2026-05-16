@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, Python  
-- **Web:** HTML, CSS, JavaScript  
+- **Web:** HTML, CSS  
 - **Tools:** Git, GitHub, VS Code  
 
 ## 📌 Featured Projects
