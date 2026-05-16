@@ -14,7 +14,6 @@ Welcome to my GitHub profile!
 - **Tools:** Git, GitHub, VS Code  
 
 ## 📌 Featured Projects
-- [portfolio](https://github.com/KartikThakur00/portfolio) — Main portfolio app highlighting selected projects, skills, and contact details.  
 - [Personal Website (GitHub Pages)](https://github.com/KartikThakur00/kartikthakur00.github.io) — Personal GitHub Pages deployment and static site setup repository.  
 - [expense_tracker](https://github.com/KartikThakur00/expense_tracker) — Web app to track and manage day-to-day expenses.  
 - [sociopedia-client](https://github.com/KartikThakur00/sociopedia-client) — Frontend for a social media style application.  
